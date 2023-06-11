@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thirumala
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Data science course from Data is Good.
+- 🌱 Working as a Data Data Scientist in Globussoft.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
